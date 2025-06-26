@@ -61,7 +61,6 @@ CineVerse is a sleek, high-performance mobile app built with **React Native and 
 ✅ **Modern Design** – Sleek UI with dark/light mode.  
 ✅ **Scalable** – Easy to extend with new features.  
 
-Perfect for movie lovers and developers learning **React Native & Expo**! 🎥📱  
 
 
 
