@@ -1,7 +1,4 @@
 # Movie-Mobile-App
-# **Movie App Description (Built with React Native & Expo)**  
-
-**App Name:** **CineVerse**  
 
 **Overview:**  
 CineVerse is a sleek, high-performance mobile app built with **React Native and Expo**, designed to provide movie enthusiasts with an immersive experience for discovering, exploring, and tracking their favorite films. With a clean UI, smooth animations, and real-time data, CineVerse offers a seamless way to browse trending movies, check details, watch trailers, and save favorites.  
